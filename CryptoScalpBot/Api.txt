@@ -1,0 +1,8 @@
+1.CryptoBot
+API KEY - 4yfGhEV7ROTjz25wHmcwMEkIkzNxJmiC4gTp4C8rkoKbbOXN2Ob4KYjW5qb2yTAO
+SECRET KEY - Q6edN0xDVxs4FekUellTovnCI3J5Pq8aDknqgMkEj7WDNXwxugoH6qhBwJkQzATS
+
+2.BotMain
+
+API KEY - CDFCd1niyKneYgogvDetgfcXCRECpwlwd9ikyjHWUihJ6iLhWDxiVnoVvF7mPYFv
+SECRET KEY - qnckfcVRDEbulbOm8rkp8x5BKLAQJafbGeo1VXsObpdjwxh03hNsuW7vY77yLZEI
